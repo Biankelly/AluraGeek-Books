@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "name": "Clean Code",
+      "price": "40",
+      "image": "https://m.media-amazon.com/images/I/41SH-SvWPxL._AC_SY780_.jpg",
+      "id": "1",
+      "author": "Robert C. Martin"
+    },
+    {
+      "name": "The Pragmatic Programmer",
+      "price": "35",
+      "image": "https://m.media-amazon.com/images/I/41as+WafrFL._AC_SY780_.jpg",
+      "id": "2",
+      "author": "Andrew Hunt, David Thomas"
+    },
+    {
+      "name": "Design Patterns",
+      "price": "50",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81gtKoapHFL.jpg",
+      "id": "3",
+      "author": "Erich Gamma, Richard Helm"
+    },
+    {
+      "name": "Refactoring: Improving the Design of Existing Code",
+      "price": "45",
+      "image": "https://m.media-amazon.com/images/I/71TGolfP8fL._SL1500_.jpg",
+      "id": "4",
+      "author": "Martin Fowler"
+    },
+    {
+      "name": "You Don't Know JS: Scope & Closures",
+      "price": "25",
+      "image": "https://m.media-amazon.com/images/I/81zWsOMWE4L._SL1500_.jpg",
+      "id": "5",
+      "author": "Kyle Simpson"
+    },
+    {
+      "name": "Eloquent JavaScript",
+      "price": "30",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91asIC1fRwL.jpg",
+      "id": "6",
+      "author": "Marijn Haverbeke"
+    },
+    {
+      "id": "3a61",
+      "name": "Cracking the Coding Interview",
+      "price": "60",
+      "image": "https://m.media-amazon.com/images/I/61mIq2iJUXL._SL1360_.jpg",
+      "author": "Gayle Laakmann McDowell"
+    }
+  ]
+}

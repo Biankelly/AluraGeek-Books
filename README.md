@@ -76,9 +76,9 @@ Asegúrate de tener **Node.js** instalado en tu equipo.
 
 Con **json-server**, tienes estas rutas disponibles:
 
-- `GET /products`: Obtén la lista completa de libros.
-- `POST /products`: Añade un libro nuevo.
-- `DELETE /products/:id`: Elimina un libro por su ID.
+- `GET /books`: Obtén la lista completa de libros.
+- `POST /books`: Añade un libro nuevo.
+- `DELETE /books/:id`: Elimina un libro por su ID.
 
 ---
 
